@@ -12,6 +12,8 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         print("Welcome")
+        print("new")
+
         //new test
         //test
         // Do any additional setup after loading the view.
